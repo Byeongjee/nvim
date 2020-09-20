@@ -22,6 +22,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'suy/vim-context-commentstring'
     " highlight all matches under cursor
     " Plug 'RRethy/vim-illuminate'
+    Plug 'bkad/camelcasemotion'
 
   if exists('g:vscode')
     " Easy motion for VSCode

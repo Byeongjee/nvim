@@ -14,6 +14,7 @@ source $HOME/.config/nvim/general/settings.vim
 source $HOME/.config/nvim/general/functions.vim
 source $HOME/.config/nvim/keys/mappings.vim
 source $HOME/.config/nvim/plug-config/quickscope.vim
+source $HOME/.config/nvim/plug-config/camelcasemotion.vim
 
 if exists('g:vscode')
   " VS Code extension
